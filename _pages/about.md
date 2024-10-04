@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [SEEM](https://www.se.cuhk.edu.hk/) at the Chinese University of Hong Kong. 
+I am a PhD student in [SEEM](https://www.se.cuhk.edu.hk/) at the[Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Anthony Man-Cho So](https://www1.se.cuhk.edu.hk/~manchoso/). Before that, I obtained my bachelor degree from School of Mathematical Sciences, Fudan University.
 
 Previously, I was a postdoctoral researcher in [Department of Management Science and Engineering (MS&E)](https://msande.stanford.edu/) at [Stanford University](https://www.stanford.edu/), hosted by [Prof. Jose Blanchet](https://web.stanford.edu/~jblanche/).  I received my Ph.D. degree in [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) from the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) in 2021, where I was fortunate to be advised by [Prof. Anthony Man-Cho So](https://www1.se.cuhk.edu.hk/~manchoso/). Prior to joining CUHK, I obtained my bachelor degree in Statistics from Chongqing University.
 
