@@ -7,31 +7,21 @@ redirect_from:
   - /markdown.html
 ---
 
-## Teaching 
+## Teaching Assistant
 
-### **Current Term**: 
-
-- [COMM 616 Optimization Theory and Applications](https://gerrili1996.github.io/comm616) 
+- Foudations of Optimization 2024, 2023 Fall
+- Statistics for Engineering 2023, Spring
+- Probability for Engineering 2022, Fall
+- Fundementals in Decision and Data Analytics
 	
-	A topic course on **Modern Optimization with Applications in Machine Learning and Operation Research**
-
 
 
 ## Professional Services
 
 Reviews for 
 
-- Neural Information Processing Systems (NeurIPS) 2020, 2021, 2022, 2023
-- International Conference on Machine Learning (ICML) 2020, 2021, 2022, 2023
-- The International Conference on Learning Representations (ICLR) 2022, 2023
-- International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
-- Mathematical Programming 
-- SIAM Journal on Optimization
-- Mathematics of Operations Research 
-- Management Science 
-- Operation Research 
-- Journal of Machine Learning Research 
-- Journal of Global Optimization
-- IEEE Transactions on Information Theory
-- IEEE Transactions on Knowledge and Data Engineering
-- Pattern Recognition 
+- The International Conference on Learning Representations (ICLR) 2024, 2025
+- International Conference on Machine Learning (ICML) 2024
+- Neural Information Processing Systems (NeurIPS) 2023
+- Annual AAAI Conference on Artificial Intelligence (AAAI) 2025
+- International Conference on Artificial Intelligence and Statistics (AISTATS) 2024
