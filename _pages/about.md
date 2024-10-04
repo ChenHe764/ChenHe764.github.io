@@ -15,7 +15,7 @@ I am a PhD student in [SEEM](https://www.se.cuhk.edu.hk/) at the[Chinese Univers
 
 # Research Interests 
 
-My research interests generally lie in mathematical optimization, such as first-order methods, computational economics, and machine learning.
+My research interests generally lie in mathematical optimization, such as first-order methods, computational economics, and machine learning. See my recent papers for reference.
 
 
 # News
