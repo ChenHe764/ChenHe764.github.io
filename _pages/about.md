@@ -15,9 +15,10 @@ I am a PhD student in [SEEM](https://www.se.cuhk.edu.hk/) at the[Chinese Univers
 
 # Research Interests 
 
-My research interests generally lie in mathematical optimization.
+My research interests generally lie in mathematical optimization, such as first-order methods, computational economics, and machine learning.
 
 
 # News
-- [2024.10] One papers accepted by WINE 2024.
-- [2024.01] One paper accepted by AISTATS 2024!.
+- [2024.10] [One paper](https://wine2024.org/#accepted-papers) on computing *market equilibrium* is accepted by WINE 2024.
+- [2024.04] [One paper](https://arxiv.org/abs/2404.08073) on *Bregman stationarity* is posted on arxive.
+- [2024.01] [One paper](https://proceedings.mlr.press/v238/chen24a.html) on *bilivel optimization* is accepted by AISTATS 2024!.
