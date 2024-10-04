@@ -10,7 +10,7 @@ locale                   : "Shatin, Hong Kong"
 title                    : "He Chen"
 title_separator          : "-"
 name                     : &name "He Chen"
-description              : &description "Phd Student at CUHK"
+description              : &description "Ph.D Student at CUHK"
 url                      : https://chenhe764.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "He Chen"
   avatar           : "photo.jpg"
-  bio              : "Phd Student at CUHK"
+  bio              : "Ph.D. student at CUHK"
   location         : "Shatin, Hong Kong"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gerrili1996"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
