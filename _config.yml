@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiajin Li"
+title                    : "He Chen"
 title_separator          : "-"
-name                     : &name "Jiajin Li"
-description              : &description "Assistant Professor at UBC"
+name                     : &name "He Chen"
+description              : &description "Phd Student at CUHK"
 url                      : https://gerrili1996.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gerrili1996/gerrili1996.github.io"
