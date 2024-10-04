@@ -12,7 +12,7 @@ redirect_from:
 - Foudations of Optimization 2024, 2023 Fall
 - Statistics for Engineering 2023, Spring
 - Probability for Engineering 2022, Fall
-- Fundementals in Decision and Data Analytics
+- Fundementals in Decision and Data Analytics 2022, Spring
 	
 
 
@@ -25,3 +25,4 @@ Reviews for
 - Neural Information Processing Systems (NeurIPS) 2023
 - Annual AAAI Conference on Artificial Intelligence (AAAI) 2025
 - International Conference on Artificial Intelligence and Statistics (AISTATS) 2024
+- Mathematics of Operations Research
