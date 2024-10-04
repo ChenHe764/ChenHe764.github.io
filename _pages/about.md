@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third-year PhD student in [Systems Engineering & Engineering Management (SEEM)](https://www.se.cuhk.edu.hk/) at [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), where I am fortunate to be supervised by [Prof. Anthony Man-Cho So](https://www1.se.cuhk.edu.hk/~manchoso/). Before that, in 2022, I obtained my bachelor degree from School of Mathematical Sciences, Fudan University, advised by [Prof. Rujun Jiang](https://rjjiang.github.io/).
 
-**Email:** hechen dot link at cuhk dot edu dot hk
+**Email:** hechen at link dot cuhk dot edu dot hk
 
 
 # Research Interests 
