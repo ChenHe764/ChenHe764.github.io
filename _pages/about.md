@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in [SEEM](https://www.se.cuhk.edu.hk/) at the[Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Anthony Man-Cho So](https://www1.se.cuhk.edu.hk/~manchoso/). Before that, in 2022, I obtained my bachelor degree from School of Mathematical Sciences, Fudan University, advised by [Prof. Rujun Jiang](https://rjjiang.github.io/).
+I am a third-year PhD student in [SEEM](https://www.se.cuhk.edu.hk/) at the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Anthony Man-Cho So](https://www1.se.cuhk.edu.hk/~manchoso/). Before that, in 2022, I obtained my bachelor degree from School of Mathematical Sciences, Fudan University, advised by [Prof. Rujun Jiang](https://rjjiang.github.io/).
 
 **Email:** hechen dot link at cuhk dot edu dot hk
 
