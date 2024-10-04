@@ -11,9 +11,9 @@ title                    : "He Chen"
 title_separator          : "-"
 name                     : &name "He Chen"
 description              : &description "Phd Student at CUHK"
-url                      : https://gerrili1996.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chenhe764.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gerrili1996/gerrili1996.github.io"
+# repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiajin Li"
+  name             : "He Chen"
   avatar           : "photo.jpg"
-  bio              : "Assistant Professor at UBC"
-  location         : "Vancouver, BC"
+  bio              : "Phd Student at CUHK"
+  location         : "Shatin, Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=IwwqUhYAAAAJ&hl=en"
-  email            : "jiajin.li@sauder.ubc.ca"
+  googlescholar    : "https://scholar.google.com/citations?user=Krr09TQAAAAJ&hl=en-TW"
+  email            : "hechen@link.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
