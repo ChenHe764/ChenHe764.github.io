@@ -10,7 +10,7 @@ author_profile: true
 
 
 ## Conference Articles
-- Computing Competitive Equilibrium for Chores: Linear Convergence and Lightweight Iteration [[arxiv]]([https://wine2024.org/#accepted-papers](https://arxiv.org/abs/2410.04036))<br> He  Chen, Chonghe Jiang, Anthony Man-Cho So. <br>
+- Computing Competitive Equilibrium for Chores: Linear Convergence and Lightweight Iteration [[arxiv]](https://arxiv.org/abs/2410.04036)<br> He  Chen, Chonghe Jiang, Anthony Man-Cho So. <br>
 Accepted by ***WINE*** 2024
 - Lower-level Duality Based Reformulation and Majorization Minimization Algorithm for Hyperparameter Optimization [[link]](https://proceedings.mlr.press/v238/chen24a.html) <br> He Chen, Haochen Xu, Rujun Jiang, Anthony Man-Cho So. <br>
 Accepted by ***AISTATS*** 2024
