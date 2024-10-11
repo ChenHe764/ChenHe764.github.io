@@ -7,6 +7,7 @@ author_profile: true
 
 ## Preprints
 - Spurious Stationarity and Hardness Results for Mirror Descent [[arxiv]](https://arxiv.org/abs/2404.08073) <br>($\alpha$-$\beta$ order) He Chen, Jiajin Li, Anthony Man-Cho So.<br>
+Accepted by ***Neurips Workshop OPT*** 2024
 
 
 ## Conference Articles
