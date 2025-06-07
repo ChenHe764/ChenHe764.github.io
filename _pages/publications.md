@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Preprints
+- Set Smoothness Unlocks Clarke Hyper-stationarity in Bilevel Optimization [[arxiv]](http://arxiv.org/abs/2506.04587) <br> He Chen, Jiajin Li, Anthony Man-Cho So.<br>
 - Spurious Stationarity and Hardness Results for Mirror Descent [[arxiv]](https://arxiv.org/abs/2404.08073) <br>($\alpha$-$\beta$ order) He Chen, Jiajin Li, Anthony Man-Cho So.<br>
 Accepted by ***NeurIPS Workshop OPT*** 2024
 
