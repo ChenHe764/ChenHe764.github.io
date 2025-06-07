@@ -20,6 +20,6 @@ My research interests generally lie in mathematical optimization and its applica
 
 # News
 - [2025.06] [One paper](http://arxiv.org/abs/2506.04587) on *computability of BLO* is posted on arxiv, which proposes a powerful *set smoothness* property.
-- [2024.10] [One paper](https://wine2024.org/#accepted-papers) on *market equilibrium for chores* is accepted by **WINE** 2024.
-- [2024.04] [One paper](https://arxiv.org/abs/2404.08073) on *spurious Bregman stationarity* is posted on arxiv.
+- [2024.10] [One paper](https://wine2024.org/#accepted-papers) on *market equilibrium for chores* is accepted by **WINE** 2024, which proves that the optimization formulaiton of CE for chores has KL expoenent 1/2.
+- [2024.04] [One paper](https://arxiv.org/abs/2404.08073) on *spurious Bregman stationarity* is posted on arxiv, which unveils the structural hardness of Bregman proximal-type methods.
 - [2024.01] [One paper](https://proceedings.mlr.press/v238/chen24a.html) on *nonsmooth bilivel optimization* is accepted by **AISTATS** 2024.
