@@ -14,7 +14,7 @@ author_profile: true
 ## Conference Articles
 - Accelerated Price Adjustment for Fisher Markets with Exact Recovery of Competitive Equilibrium [[arxiv]]<br>
 He  Chen, Chonghe Jiang, Anthony Man-Cho So.<br>
-The 20th Conference on Web and Internet Economics (**WINE 2024**)
+The 20th Conference on Web and Internet Economics (**WINE 2025**)
 - Computing Competitive Equilibrium for Chores: Linear Convergence and Lightweight Iteration [[arxiv]](https://arxiv.org/abs/2410.04036)<br>
 He  Chen, Chonghe Jiang, Anthony Man-Cho So. <br>
 The 20th Conference on Web and Internet Economics (**WINE 2024**)
