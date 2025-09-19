@@ -12,7 +12,7 @@ author_profile: true
 
 ## Publications
 - Set Smoothness Unlocks Clarke Hyper-stationarity in Bilevel Optimization [[arxiv]](http://arxiv.org/abs/2506.04587) <br> He Chen, Jiajin Li, Anthony Man-Cho So.<br>
-The 39th Annual Conference on Neural Information Processing Systems (**Neurips 2025 [Spotlight]**)
+The 39th Annual Conference on Neural Information Processing Systems (**Neurips 2025, Spotlight**)
 - Accelerated Price Adjustment for Fisher Markets with Exact Recovery of Competitive Equilibrium [[arxiv]]<br>
 He  Chen, Chonghe Jiang, Anthony Man-Cho So ($\alpha$-$\beta$ order).<br>
 The 21th Conference on Web and Internet Economics (**WINE 2025**)
