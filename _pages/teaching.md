@@ -9,7 +9,7 @@ redirect_from:
 
 ## Teaching Assistant
 
-- Foudations of Optimization 2024, 2023 Fall
+- Foudations of Optimization 2023, 2024, 2025 Fall
 - Statistics for Engineering 2023, Spring
 - Probability for Engineering 2022, Fall
 - Fundementals in Decision and Data Analytics 2022, Spring
