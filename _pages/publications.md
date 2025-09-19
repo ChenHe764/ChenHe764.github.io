@@ -18,7 +18,7 @@ He  Chen, Chonghe Jiang, Anthony Man-Cho So ($\alpha$-$\beta$ order).<br>
 The 21th Conference on Web and Internet Economics (**WINE 2025**)
 - Computing Competitive Equilibrium for Chores: Linear Convergence and Lightweight Iteration [[arxiv]](https://arxiv.org/abs/2410.04036)<br>
 He  Chen, Chonghe Jiang, Anthony Man-Cho So. <br>
-**Revision** at **Game and Economic Behavior**
+**Revision** at **Game and Economic Behavior**<br>
 The 20th Conference on Web and Internet Economics (**WINE 2024**)
 - Lower-level Duality Based Reformulation and Majorization Minimization Algorithm for Hyperparameter Optimization <br>
 He Chen, Haochen Xu, Rujun Jiang, Anthony Man-Cho So. <br>
