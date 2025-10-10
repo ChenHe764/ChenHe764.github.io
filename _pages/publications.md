@@ -5,11 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints
-- Spurious Stationarity and Hardness Results for Mirror Descent [[arxiv]](https://arxiv.org/abs/2404.08073) <br> He Chen, Jiajin Li, Anthony Man-Cho So ($\alpha$-$\beta$ order).<br>
-**NeurIPS Workshop OPT 2024**
-
-
 ## Publications
 - Set Smoothness Unlocks Clarke Hyper-stationarity in Bilevel Optimization [[arxiv]](http://arxiv.org/abs/2506.04587) <br> He Chen, Jiajin Li, Anthony Man-Cho So.<br>
 The 39th Annual Conference on Neural Information Processing Systems (**Neurips 2025, Spotlight**)
@@ -26,3 +21,7 @@ The 27th International Conference on Artificial Intelligence and Statistics (**A
 - Fast Algorithms for Stackelberg Prediction Game with Least Squares Loss [[link]](https://proceedings.mlr.press/v139/wang21d.html) <br>
 Jiali Wang, He Chen, Rujun Jiang, Xudong Li, Zihao Li. <br>
 The 38th International Conference on Machine Learning (**ICML 2021**)
+
+## Working Papers
+- Spurious Stationarity and Hardness Results for Mirror Descent [[arxiv]](https://arxiv.org/abs/2404.08073) <br> He Chen, Jiajin Li, Anthony Man-Cho So ($\alpha$-$\beta$ order).<br>
+**NeurIPS Workshop OPT 2024**
