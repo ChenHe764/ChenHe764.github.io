@@ -15,7 +15,7 @@ I am a final-year PhD student in [Systems Engineering & Engineering Management (
 
 # Research Interests 
 
-My research interests generally lie in mathematical optimization and its applications, such as first-order methods, computational economics, and machine learning. See my recent papers for reference.
+My research interests generally lie in mathematical optimization and its applications, such as first-order methods, bilevel optimization, computational economics, and machine learning. See my recent papers for reference.
 
 
 # News
