@@ -19,6 +19,6 @@ My research interests generally lie in mathematical optimization and its applica
 
 
 # News
-- [2026.06] I will give a talk on my [Set Smoothness Paper](http://arxiv.org/abs/2506.04587) in *SIAM Conference on Optimization 26*.
+- [2026.06] I gave a talk on my [Set Smoothness Paper](http://arxiv.org/abs/2506.04587) in *SIAM Conference on Optimization 26*.
 - [2025.09] [One paper](http://arxiv.org/abs/2506.04587) on *computability of BLO* is accepted by **Neurips 2025 [Spotlight]**, which proposes a powerful *set smoothness* property.
 - [2025.09] [One paper](http://arxiv.org/abs/2510.07759) on *price adjustment methods* is accepted by **WINE 2025**, which proposes an efficient recovery oracle for computing market equilibrium.
