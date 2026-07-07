@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Topics
-# Bilevel Optimization
+### Bilevel Optimization
 - Set Smoothness Unlocks Clarke Hyper-stationarity in Bilevel Optimization [[arxiv]](http://arxiv.org/abs/2506.04587) <br> He Chen, Jiajin Li, Anthony Man-Cho So.<br>
 The 39th Annual Conference on Neural Information Processing Systems (**Neurips 2025, Spotlight**)
 - Lower-level Duality Based Reformulation and Majorization Minimization Algorithm for Hyperparameter Optimization <br>
