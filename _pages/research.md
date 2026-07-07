@@ -25,5 +25,4 @@ The 38th International Conference on Machine Learning (**ICML 2021**)
 ## Working Papers
 - Spurious Stationarity and Hardness Results for Bregman Proximal-Type Algorithms [[arxiv]](https://arxiv.org/abs/2404.08073) <br> He Chen, Jiajin Li, Anthony Man-Cho So ($\alpha$-$\beta$ order).<br>
 **NeurIPS Workshop OPT 2024**
-  Lemin Kong, **Jiajin Li**, Anthony Man-Cho So. <br>
 
