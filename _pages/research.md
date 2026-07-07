@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+It is well recognized that the performance and convergence behavior of optimization algorithms depend critically on the underlying structure of the problem, such as convexity, error bounds, and subanalyticity. My research aims to identify and exploit the intrinsic structure of modern optimization problems, design algorithms that are tailored to these structures, and establish rigorous convergence guarantees. Beyond developing efficient algorithms, I am particularly interested in uncovering new principles, mechanisms, and analytical tools that deepen our understanding of optimization problems and the behavior of optimization methods.
 ## Bilevel Optimization
 - Set Smoothness Unlocks Clarke Hyper-stationarity in Bilevel Optimization [[arxiv]](http://arxiv.org/abs/2506.04587) <br> He Chen, Jiajin Li, Anthony Man-Cho So.<br>
 The 39th Annual Conference on Neural Information Processing Systems (**Neurips 2025, Spotlight**)
