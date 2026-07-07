@@ -16,7 +16,7 @@ The 27th International Conference on Artificial Intelligence and Statistics (**A
 Jiali Wang, He Chen, Rujun Jiang, Xudong Li, Zihao Li. <br>
 The 38th International Conference on Machine Learning (**ICML 2021**)
 
-# Economic Computation
+### Economic Computation
 - Accelerated Price Adjustment for Fisher Markets with Exact Recovery of Competitive Equilibrium [[arxiv]](http://arxiv.org/abs/2510.07759)<br>
 He  Chen, Chonghe Jiang, Anthony Man-Cho So ($\alpha$-$\beta$ order).<br>
 The 21th Conference on Web and Internet Economics (**WINE 2025**)
