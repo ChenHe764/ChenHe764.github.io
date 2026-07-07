@@ -17,6 +17,7 @@ Jiali Wang, He Chen, Rujun Jiang, Xudong Li, Zihao Li. <br>
 The 38th International Conference on Machine Learning (**ICML 2021**)
 
 ## Economic Computation
+Classical algorithms for computing economic equilibria often rely on solving computationally expensive subproblems, which can become a bottleneck as market size and model complexity increase. My research on economic computation seeks to address this challenge by developing lightweight first-order methods that exploit the underlying optimization structure of these equilibrium problems. The goal is to design algorithms that are both computationally efficient and supported by rigorous theoretical guarantees.
 - Accelerated Price Adjustment for Fisher Markets with Exact Recovery of Competitive Equilibrium [[arxiv]](http://arxiv.org/abs/2510.07759)<br>
 He  Chen, Chonghe Jiang, Anthony Man-Cho So ($\alpha$-$\beta$ order).<br>
 The 21th Conference on Web and Internet Economics (**WINE 2025**)
