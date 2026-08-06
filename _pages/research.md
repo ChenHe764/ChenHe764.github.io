@@ -11,6 +11,7 @@ Iterate convergence of Bregman proximal methods has long remained an open proble
 *Revision* at **Mathematical Programming** <br>
 - Spurious Stationarity and Hardness Results for Bregman Proximal-Type Algorithms [[arxiv]](https://arxiv.org/abs/2404.08073) <br> He Chen, Jiajin Li, Anthony Man-Cho So ($\alpha$-$\beta$ order).<br>
 **NeurIPS Workshop OPT 2024**
+  
 ## Bilevel Optimization
 Although numerous approximation algorithms have been developed for bilevel optimization under various notions of stationarity, relatively little is known about the relationships among these stationarity concepts, particularly their connection to hyper-stationarity. My research on bilevel optimization seeks to bridge this gap by establishing these connections and uncovering the structural properties of the hyper-objective function. I hope that these results can help clarify the theoretical foundations of existing approximation schemes and provide useful guidance for the design and analysis of optimization algorithms.
 - Set Smoothness Unlocks Clarke Hyper-stationarity in Bilevel Optimization [[arxiv]](http://arxiv.org/abs/2506.04587) <br> He Chen, Jiajin Li, Anthony Man-Cho So.<br>
