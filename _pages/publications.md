@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Preprints
+- On the Iterate Convergence of Bregman Projected Gradient Method [[arxiv]](https://arxiv.org/abs/2608.05035)  <br> He Chen, Anthony Man-Cho So.<br>
+*Revision* at **Mathematical Programming** <br>
+- Spurious Stationarity and Hardness Results for Bregman Proximal-Type Algorithms [[arxiv]](https://arxiv.org/abs/2404.08073) <br> He Chen, Jiajin Li, Anthony Man-Cho So ($\alpha$-$\beta$ order).<br>
+**NeurIPS Workshop OPT 2024**
 
 ## Conference Articles
 - Set Smoothness Unlocks Clarke Hyper-stationarity in Bilevel Optimization [[arxiv]](http://arxiv.org/abs/2506.04587) <br> He Chen, Jiajin Li, Anthony Man-Cho So.<br>
@@ -21,9 +26,3 @@ The 27th International Conference on Artificial Intelligence and Statistics (**A
 - Fast Algorithms for Stackelberg Prediction Game with Least Squares Loss [[link]](https://proceedings.mlr.press/v139/wang21d.html) <br>
 Jiali Wang, He Chen, Rujun Jiang, Xudong Li, Zihao Li. <br>
 The 38th International Conference on Machine Learning (**ICML 2021**)
-
-## Working Papers
-- On the Iterate Convergence of Bregman Projected Gradient Method [[arxiv]](https://arxiv.org/abs/2608.05035)  <br> He Chen, Anthony Man-Cho So.<br>
-*Revision* at **Mathematical Programming** <br>
-- Spurious Stationarity and Hardness Results for Bregman Proximal-Type Algorithms [[arxiv]](https://arxiv.org/abs/2404.08073) <br> He Chen, Jiajin Li, Anthony Man-Cho So ($\alpha$-$\beta$ order).<br>
-**NeurIPS Workshop OPT 2024**
