@@ -23,5 +23,7 @@ Jiali Wang, He Chen, Rujun Jiang, Xudong Li, Zihao Li. <br>
 The 38th International Conference on Machine Learning (**ICML 2021**)
 
 ## Working Papers
+- On the Iterate Convergence of Bregman Projected Gradient Method [[arxiv]](https://arxiv.org/abs/2608.05035)  <br> He Chen, Anthony Man-Cho So.<br>
+*Revision* at **Mathematical Programming**<br>
 - Spurious Stationarity and Hardness Results for Bregman Proximal-Type Algorithms [[arxiv]](https://arxiv.org/abs/2404.08073) <br> He Chen, Jiajin Li, Anthony Man-Cho So ($\alpha$-$\beta$ order).<br>
 **NeurIPS Workshop OPT 2024**
