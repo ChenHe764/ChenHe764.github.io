@@ -8,9 +8,9 @@ It is well recognized that the performance and convergence behavior of optimizat
 ## Bregman Proximal Methods
 Iterate convergence of Bregman proximal methods has long remained an open problem, particularly for nonconvex objectives and kernels with non-Lipschitz gradients. My research on Bregman proximal methods seeks to identify the phenomenon of spurious stationarity to explain why classical convergence frameworks are not applicable, and to develop a new convergence framework that establishes convergence to stationary points for a broad class of objective functions and kernels (e.g., subanalytic objectives and entropy kernels). I hope these works will deepen our understanding of the convergence behavior of Bregman proximal methods.
 - A Unified Framework for Iterate Convergence of Bregman Proximal Methods [[arxiv]](https://arxiv.org/abs/2608.05536)  <br> He Chen, Jiaming Fan, Anthony Man-Cho So.<br>
-*Preprint*   <br>
+*Preprint*, 2026   <br>
 - On the Iterate Convergence of Bregman Projected Gradient Method [[arxiv]](https://arxiv.org/abs/2608.05035)  <br> He Chen, Anthony Man-Cho So.<br>
-*Revision* at **Mathematical Programming** <br>
+*Revision* at **Mathematical Programming**, 2026 <br>
 - Spurious Stationarity and Hardness Results for Bregman Proximal-Type Algorithms [[arxiv]](https://arxiv.org/abs/2404.08073) <br> He Chen, Jiajin Li, Anthony Man-Cho So ($\alpha$-$\beta$ order).<br>
 **NeurIPS Workshop OPT 2024**
   
