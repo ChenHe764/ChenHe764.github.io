@@ -19,8 +19,8 @@ My research interests generally lie in mathematical optimization and its applica
 
 
 # News
-- [2026.08] [One paper](https://arxiv.org/abs/2608.05536) on *iterete convergence of general Bregman proximal methods* is available, which establishes a unifined convergence framework for Bregman methods.
-- [2026.08] [One paper](https://arxiv.org/abs/2608.05035) on *iterate convergence of Bregman gradient method* with entropy kernel is available, which proposes a *scaled KL* framework for Bregman settings.<br>
+- [2026.08] [One paper](https://arxiv.org/abs/2608.05536) on *iterete convergence of general Bregman proximal methods* is available, which establishes a *unified convergence framework* for Bregman methods.
+- [2026.08] [One paper](https://arxiv.org/abs/2608.05035) on *iterate convergence of Bregman gradient method* with entropy kernel is available, which proposes a verifiable *scaled KL property* for Bregman settings.<br>
   (This is my first PhD project and submitted on June 17, 2025).
 - [2026.06] I gave a talk on [Set Smoothness for BLO](http://arxiv.org/abs/2506.04587) in *SIAM Conference on Opt. 26*.
 - [2025.09] [One paper](http://arxiv.org/abs/2506.04587) on *computability of BLO* is accepted by **Neurips 2025 [Spotlight]**, which proposes a *set smoothness* property for set-valued mappings.
