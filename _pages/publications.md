@@ -6,9 +6,9 @@ author_profile: true
 ---
 ## Preprints
 - A Unified Framework for Iterate Convergence of Bregman Proximal Methods [[arxiv]](https://arxiv.org/abs/2608.05536)  <br> He Chen, Jiaming Fan, Anthony Man-Cho So.<br>
-*Preprint* <br>
+*Preprint*, 2026 <br>
 - On the Iterate Convergence of Bregman Projected Gradient Method [[arxiv]](https://arxiv.org/abs/2608.05035)  <br> He Chen, Anthony Man-Cho So.<br>
-*Revision* at **Mathematical Programming** <br>
+*Revision* at **Mathematical Programming**, 2026 <br>
 - Spurious Stationarity and Hardness Results for Bregman Proximal-Type Algorithms [[arxiv]](https://arxiv.org/abs/2404.08073) <br> He Chen, Jiajin Li, Anthony Man-Cho So ($\alpha$-$\beta$ order).<br>
 **NeurIPS Workshop OPT 2024**
 
