@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student in [Systems Engineering & Engineering Management (SEEM)](https://www.se.cuhk.edu.hk/) at [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), where I am very fortunate to be supervised by [Prof. Anthony Man-Cho So](https://www1.se.cuhk.edu.hk/~manchoso/). Before that, I obtained my bachelor degree from School of Mathematical Sciences, Fudan University, advised by [Prof. Rujun Jiang](https://rjjiang.github.io/).
+I am an assistant professor in School of Information Management and Engineering at Shanghai University of Finance and Economics (SUFE). Before that, I obtained my PhD degree from Department of Systems Engineering & Engineering Management (SEEM) at Chinese University of Hong Kong (CUHK), where I am very fortunate to be supervised by [Prof. Anthony Man-Cho So](https://www1.se.cuhk.edu.hk/~manchoso/). I obtained my bachelor degree from School of Mathematical Sciences, Fudan University, advised by [Prof. Rujun Jiang](https://rjjiang.github.io/).
 
-**Email:** hechen at link dot cuhk dot edu dot hk
+**Email:** hechen at mail dot sufe dot edu dot cn
 
 
 # Research Interests 
