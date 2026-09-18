@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Courses
--No course in the current semster.
+- No course in the current semster.
 
 
 ## Professional Services
