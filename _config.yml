@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Shatin, Hong Kong"
+locale                   : "Shanghai, China"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "He Chen (陈河)"
-description              : &description "Ph.D Student at CUHK"
+description              : &description "Assistant Professor at SUFE"
 url                      : https://chenhe764.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : ""
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "He Chen（陈河）"
   avatar           : "photo.jpg"
-  bio              : "Ph.D. student at CUHK"
-  location         : "Shatin, Hong Kong"
+  bio              : "Assistant Professor at SUFE"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Krr09TQAAAAJ&hl=en-TW"
-  email            : "hechen@link.cuhk.edu.hk"
+  email            : "chenhe@mail.sufe.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
