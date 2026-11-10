@@ -20,6 +20,7 @@ My research interests generally lie in mathematical optimization and its applica
 
 
 # News
+- [2026.11] I will be attending ISMP 2027 and plan to organize a session on bilevel optimization.
 - [2026.08] [One paper](https://arxiv.org/abs/2608.05536) on *iterete convergence of general Bregman proximal methods* is available, which establishes a *unified convergence framework* for Bregman methods.
 - [2026.08] [One paper](https://arxiv.org/abs/2608.05035) on *iterate convergence of Bregman gradient method* with entropy kernel is available, which proposes a verifiable *scaled KL property* for Bregman settings.<br>
   (This is my first PhD project and submitted on June 17, 2025).
